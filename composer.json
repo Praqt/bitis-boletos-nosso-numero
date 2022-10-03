@@ -1,11 +1,11 @@
 {
-    "name": "bitis/boletos-nosso-numero",
+    "name": "praqt/boletos-nosso-numero",
     "description": "Gera o Nosso Numero dos boletos",
     "type": "library",
     "authors": [
         {
-            "name": "luishgp",
-            "email": "luis@bitis.com.br"
+            "name": "Lleonardo",
+            "email": "leonardo@praqt.com.br"
         }
     ],
     "scripts": {
@@ -21,7 +21,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Bitis\\Boletos\\NossoNumero\\": "src/"
+            "Praqt\\Boletos\\NossoNumero\\": "src/"
         }
     }
 }
