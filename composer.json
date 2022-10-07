@@ -1,5 +1,5 @@
 {
-    "name": "praqt/boletos-nosso-numero",
+    "name": "praqt/praqt-boletos-nosso-numero",
     "description": "Gera o Nosso Numero dos boletos",
     "type": "library",
     "authors": [
