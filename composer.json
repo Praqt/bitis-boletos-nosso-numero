@@ -21,7 +21,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Praqt\\Boletos\\NossoNumero\\": "src/"
+            "Bitis\\Boletos\\NossoNumero\\": "src/"
         }
     }
 }
